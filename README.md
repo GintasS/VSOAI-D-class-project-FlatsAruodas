@@ -39,36 +39,42 @@ Scrap was conducted on <b>2019-08-24</b>.
 </ul>
 
 ## <a name="Columndescriptions"></a>Column descriptions
-| Column name  | Description | Example data |
-| ------------- | ------------- |  ------------- |
-| City  | Content Cell  | Vilnius|
-| County  | Content Cell  | Žirmūnai |
-| Street  | Content Cell  | Antakalnio g. |
-| HouseCount  | Content Cell  | 1 |
-| Link  | Content Cell  | https://www.aruodas.lt/ |
-| Price EUR  | Content Cell  | 50000 |
-| Price per m2  | Content Cell  | 5000 |
-| Rooms  | Content Cell  | 3 |
-| Area m2  | Content Cell  | 45.10 |
-| Floor  | Content Cell  | 3 |
-| Total floors  | Content Cell  | 5 |
-| Flat number  | Content Cell  | 5 |
-| House number  | Content Cell  | 5A |
-| Year  | Content Cell  | 1988 |
-| Building type  | Content Cell  | Mūrinis |
-| Heating  | Content Cell  | Centrinis kolektorinis |
-| Installation type  | Content Cell  | Dalinė apdaila |
-| Specials  | Content Cell  | Nauja kanalizacija Nauja elektros instaliacija Uždaras kiemas Internetas Kabelinė televizija |
-| Extra quarters  | Content Cell  | Balkonas |
-| Extra equipment  | Content Cell  | Plastikiniai vamzdžiai |
-| Security  | Content Cell  | Šarvuotos durys Kodinė laiptinės spyna Videokameros |
-| Upload date  | Content Cell  | 8/21/2019 |
-| Modify date  | Content Cell  | 8/21/2019 |
-| Memorized count  | Content Cell  | 32 |
-| Views  | Content Cell  | 656 |
-| Telephone  | Content Cell  | 37000000000 | 
-| Coordinates  | Content Cell  | 54.000000 25.000000 |
 
+<table>
+  <tr>
+    <th>Column name</th>
+    <th>Description</th>
+    <th>Example data</th>
+  </tr>
+  <tr><td>City</td><td>Content Cell</td><td>Vilnius</td></tr>
+  <tr><td>County</td><td>Content Cell</td><td>Žirmūnai</td></tr>
+  <tr><td>Street</td><td>Content Cell</td><td>Antakalnio g.</td></tr>
+  <tr><td>HouseCount</td><td>Content Cell</td><td>https://www.aruodas.lt/</td></tr>
+  <tr><td>Link</td><td>Content Cell</td><td>https://www.aruodas.lt/</td></tr>
+  <tr><td>Price EUR</td><td>Content Cell</td><td>50000</td></tr>  
+  <tr><td>Price per m2</td><td>Content Cell</td><td>5000</td></tr>
+  <tr><td>Rooms</td><td>Content Cell</td><td>3</td></tr>  
+  <tr><td>Area m2</td><td>Content Cell</td><td>45.10</td></tr>
+  <tr><td>Floor</td><td>Content Cell</td><td>3</td></tr>  
+  <tr><td>Total floors</td><td>Content Cell</td><td>5</td></tr>
+  <tr><td>Flat number</td><td>Content Cell</td><td>5</td></tr>  
+  <tr><td>House number</td><td>Content Cell</td><td>5A</td></tr>
+  <tr><td>Year</td><td>Content Cell</td><td>1988</td></tr>
+  <tr><td>Building type</td><td>Content Cell</td><td>Mūrinis</td></tr>
+  <tr><td>Heating</td><td>Content Cell</td><td>Centrinis kolektorinis</td></tr>
+  <tr><td>Installation type</td><td>Content Cell</td><td>Dalinė apdaila</td></tr>
+  <tr><td>Specials</td><td>Content Cell</td><td>Nauja kanalizacija Nauja elektros instaliacija Uždaras kiemas Internetas Kabelinė televizija</td></tr>  
+  <tr><td>Extra quarters</td><td>Content Cell</td><td>Balkonas</td></tr>
+  <tr><td>Extra equipment</td><td>Content Cell</td><td>Plastikiniai vamzdžiai</td></tr>  
+  <tr><td>Security</td><td>Content Cell</td><td>Šarvuotos durys Kodinė laiptinės spyna Videokameros</td></tr>
+  <tr><td>Upload date</td><td>Content Cell</td><td>8/21/2019</td></tr>  
+  <tr><td>Modify date</td><td>Content Cell</td><td>8/21/2019</td></tr>
+  <tr><td>Memorized count</td><td>Content Cell</td><td>1</td></tr>   
+  <tr><td>Views</td><td>Content Cell</td><td>345</td></tr>
+  <tr><td>Telephone</td><td>Content Cell</td><td>37000000000</td></tr>
+  <tr><td>Coordinates</td><td>Content Cell</td><td>54.000000 25.000000</td></tr>
+ </table>
+ 
 ## <a name="Media"></a>Media
 
 <a target="_blank" href="https://github.com/GintasS/VSOAI-D-class-project-FlatsAruodas/blob/master/charts/flat%20prices%20histogram.JPG">
