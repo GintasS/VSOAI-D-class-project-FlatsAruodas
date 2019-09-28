@@ -89,14 +89,14 @@ Example & tutorial can be found here: <a href='https://stackabuse.com/k-nearest-
 <b>Input dataframe:</b><br>
 <a target="_blank" href="https://github.com/GintasS/VSOAI-D-class-project-FlatsAruodas/blob/master/tables/ML%20model%20dataframe.JPG">
   <img src="https://github.com/GintasS/VSOAI-D-class-project-FlatsAruodas/blob/master/tables/ML%20model%20dataframe.JPG" height="170" style="max-width:50%;"></img>
-</a>
+</a><br><br>
 <b>Model results:</b><br>
 <a target="_blank" href="https://github.com/GintasS/VSOAI-D-class-project-FlatsAruodas/blob/master/tables/ML%20model%20results.JPG">
-  <img src="https://github.com/GintasS/VSOAI-D-class-project-FlatsAruodas/blob/master/tables/ML%20model%20results.JPG" height="200" style="max-width:50%;"></img>
-</a>
-Error rate k value chart:<br>
+  <img src="https://github.com/GintasS/VSOAI-D-class-project-FlatsAruodas/blob/master/tables/ML%20model%20results.JPG" height="220" style="max-width:50%;"></img>
+</a><br><br>
+<b>Error rate k value chart:</b><br>
 <a target="_blank" href="https://github.com/GintasS/VSOAI-D-class-project-FlatsAruodas/blob/master/charts/error%20rate%20k-value.JPG">
-  <img src="https://github.com/GintasS/VSOAI-D-class-project-FlatsAruodas/blob/master/charts/error%20rate%20k-value.JPG" height="200" style="max-width:50%;"></img>
+  <img src="https://github.com/GintasS/VSOAI-D-class-project-FlatsAruodas/blob/master/charts/error%20rate%20k-value.JPG" height="300" style="max-width:50%;"></img>
 </a>
 
 
