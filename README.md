@@ -63,10 +63,10 @@ Scrap was conducted on <b>2019-08-24</b>.
   <tr><td>Building type</td><td>Building type</td><td>Mūrinis</td></tr>
   <tr><td>Heating</td><td>Heating type</td><td>Centrinis kolektorinis</td></tr>
   <tr><td>Installation type</td><td>Finishing type</td><td>Dalinė apdaila</td></tr>
-  <tr><td>Specials</td><td>Special items that describe a flat, e.g: flat can have new plumbing</td><td>Nauja kanalizacija<br> Nauja elektros instaliacija<br> Uždaras kiemas<br> Internetas<br> Kabelinė televizija</td></tr>  
+  <tr><td>Specials</td><td>Special items that describe<br> a flat, e.g: flat can have new plumbing</td><td>Nauja kanalizacija<br> Nauja elektros instaliacija<br> Uždaras kiemas<br> Internetas<br> Kabelinė televizija</td></tr>  
   <tr><td>Extra quarters</td><td>Special rooms that a flat has, e.g: flat can have a balcony</td><td>Balkonas</td></tr>
   <tr><td>Extra equipment</td><td>Equipment that come with a flat, e.g: dishwasher</td><td>Plastikiniai vamzdžiai</td></tr>  
-  <tr><td>Security</td><td>Describes the security meassures that a particular flat employs, e.g: alarm</td><td>Šarvuotos durys<br> Kodinė laiptinės spyna<br> Videokameros</td></tr>
+  <tr><td>Security</td><td>Describes the security meassures<br> that a particular flat employs, e.g: alarm</td><td>Šarvuotos durys<br> Kodinė laiptinės spyna<br> Videokameros</td></tr>
   <tr><td>Upload date</td><td>Upload date of the ad.Format: YYYY-MM-DD</td><td>8/21/2019</td></tr>  
   <tr><td>Modify date</td><td>Modify date of the ad.Format: YYYY-MM-DD</td><td>8/21/2019</td></tr>
   <tr><td>Memorized count</td><td>Counter of how many people saved the ad</td><td>1</td></tr>   
