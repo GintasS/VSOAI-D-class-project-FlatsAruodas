@@ -1,0 +1,60 @@
+MAIN:
+- FLAT PRICE, PRICE PER m2:
+    * AVERAGE PRICE
+    * MIN PRICE
+    * MAX PRICE
+    * SUM
+    * MODE(most often appears)
+    * MEDIAN
+    * Percentiles
+    * Range
+    * Standart deviation
+    * TAKE AVERAGE SALARY FOR LITHUANIA ANT GET NUMBER OF YEARS TO BUY A FLAT
+- Area m2:
+    * AVERAGE
+    * MIN
+    * MAX
+    * MEDIAN
+    * MODE
+- YEAR:
+    * AVERAGE
+    * MIN
+    * MAX
+    * MEDIAN
+    * MODE
+- BUILDING TYPE:
+    * GROUP BY POPULARITY
+- VIEWS:
+    * AVERAGE
+    * MIN
+    * MAX
+- COORDINATES:
+    * MAP ALL OBJECTS
+
+tags['movieId'].describe()
+min(), max(), mode(), median(), Count(), Clip(), Rank(), Round()
+
+df.replace()
+df.fillna(method='ffill')
+
+filter_2 = ratings['rating] > 0
+filter_2.all()
+
+movies.isnull().any()
+tags = tags.dropna()
+
+df.plot.hist()
+df.plot.box()
+df.plot()
+
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+ts = pd.Series(np.random.randn(1000), index=pd.date_range('1/1/2000', periods=1000))
+ts.plot()
+plt.show()
+%matplotlib inline
+
+tags['tag].value_counts()
+
+pd.to_datetime(tags['timestamp], unit='s')
