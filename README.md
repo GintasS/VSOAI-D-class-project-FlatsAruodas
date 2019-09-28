@@ -86,7 +86,7 @@ Scrap was conducted on <b>2019-08-24</b>.
      <li>Year</li>
   </ul>
 Example & tutorial can be found here: <a href='https://stackabuse.com/k-nearest-neighbors-algorithm-in-python-and-scikit-learn/' target='_blank'>URL</a><br><br>
-<b>Input dataframe:</b><br>
+<b>Input dataframe (first 5 rows):</b><br>
 <a target="_blank" href="https://github.com/GintasS/VSOAI-D-class-project-FlatsAruodas/blob/master/tables/ML%20model%20dataframe.JPG">
   <img src="https://github.com/GintasS/VSOAI-D-class-project-FlatsAruodas/blob/master/tables/ML%20model%20dataframe.JPG" height="170" style="max-width:50%;"></img>
 </a><br><br>
