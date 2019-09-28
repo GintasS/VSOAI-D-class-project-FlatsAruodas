@@ -85,11 +85,20 @@ Scrap was conducted on <b>2019-08-24</b>.
      <li>Total floors</li> 
      <li>Year</li>
   </ul>
-Example & tutorial can be found here: <a href='https://stackabuse.com/k-nearest-neighbors-algorithm-in-python-and-scikit-learn/' target='_blank'>URL</a><br>
-Input dataframe:<br>
+Example & tutorial can be found here: <a href='https://stackabuse.com/k-nearest-neighbors-algorithm-in-python-and-scikit-learn/' target='_blank'>URL</a><br><br>
+<b>Input dataframe:</b><br>
 <a target="_blank" href="https://github.com/GintasS/VSOAI-D-class-project-FlatsAruodas/blob/master/tables/ML%20model%20dataframe.JPG">
   <img src="https://github.com/GintasS/VSOAI-D-class-project-FlatsAruodas/blob/master/tables/ML%20model%20dataframe.JPG" height="170" style="max-width:50%;"></img>
 </a>
+<b>Model results:</b><br>
+<a target="_blank" href="https://github.com/GintasS/VSOAI-D-class-project-FlatsAruodas/blob/master/tables/ML%20model%20results.JPG">
+  <img src="https://github.com/GintasS/VSOAI-D-class-project-FlatsAruodas/blob/master/tables/ML%20model%20results.JPG" height="200" style="max-width:50%;"></img>
+</a>
+Error rate k value chart:<br>
+<a target="_blank" href="https://github.com/GintasS/VSOAI-D-class-project-FlatsAruodas/blob/master/charts/error%20rate%20k-value.JPG">
+  <img src="https://github.com/GintasS/VSOAI-D-class-project-FlatsAruodas/blob/master/charts/error%20rate%20k-value.JPG" height="200" style="max-width:50%;"></img>
+</a>
+
 
 </p>
 
