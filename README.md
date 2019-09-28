@@ -7,8 +7,8 @@
   - [Intro](#intro)
   - [Features](#features)
   - [Libraries](#libraries)
+  - [Column descriptions](#Columndescriptions)
   - [Media](#media)
-  - [Column descriptions](#column descriptions)
   
 ## <a name="Intro"></a>Intro
 
@@ -38,16 +38,36 @@ Scrap was conducted on <b>2019-08-24</b>.
   <li>scikit-learn</li>
 </ul>
 
-## <a name="Column descriptions"></a>Column descriptions
-<ul>
-  <li>numpy</li>
-  <li>pandas</li>
-  <li>matplotlib</li>
-  <li>seaborn</li>
-  <li>folium</li>
-  <li>scikit-learn</li>
-</ul>
-
+## <a name="Columndescriptions"></a>Column descriptions
+| Column name  | Description | Example data |
+| ------------- | ------------- |  ------------- |
+| City  | Content Cell  | Vilnius|
+| County  | Content Cell  | Žirmūnai |
+| Street  | Content Cell  | Antakalnio g. |
+| HouseCount  | Content Cell  | 1 |
+| Link  | Content Cell  | https://www.aruodas.lt/ |
+| Price EUR  | Content Cell  | 50000 |
+| Price per m2  | Content Cell  | 5000 |
+| Rooms  | Content Cell  | 3 |
+| Area m2  | Content Cell  | 45.10 |
+| Floor  | Content Cell  | 3 |
+| Total floors  | Content Cell  | 5 |
+| Flat number  | Content Cell  | 5 |
+| House number  | Content Cell  | 5A |
+| Year  | Content Cell  | 1988 |
+| Building type  | Content Cell  | Mūrinis |
+| Heating  | Content Cell  | Centrinis kolektorinis |
+| Installation type  | Content Cell  | Dalinė apdaila |
+| Specials  | Content Cell  | Nauja kanalizacija Nauja elektros instaliacija Uždaras kiemas Internetas Kabelinė televizija |
+| Extra quarters  | Content Cell  | Balkonas |
+| Extra equipment  | Content Cell  | Plastikiniai vamzdžiai |
+| Security  | Content Cell  | Šarvuotos durys Kodinė laiptinės spyna Videokameros |
+| Upload date  | Content Cell  | 8/21/2019 |
+| Modify date  | Content Cell  | 8/21/2019 |
+| Memorized count  | Content Cell  | 32 |
+| Views  | Content Cell  | 656 |
+| Telephone  | Content Cell  | 37000000000 | 
+| Coordinates  | Content Cell  | 54.000000 25.000000 |
 
 ## <a name="Media"></a>Media
 
