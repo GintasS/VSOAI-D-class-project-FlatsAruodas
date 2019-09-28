@@ -20,7 +20,9 @@ Scrap was conducted on <b>2019-08-24</b>.
   <li>27 columns(22 after cleaning)</li>
   <li>Data cleaning</li>
   <li>Charts</li>
-  <li>Machine learning model:<a href='https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm' target='_blank'>k-nearest neighbors</a> algorithm to predict <b>Building Type</b></li>
+  <li>Machine learning model:<br>
+  <a href='https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm' target='_blank'>k-nearest neighbors</a> algorithm to predict       <b>Building Type</b>
+  </li>
 </ul>
 
 ## <a name="Libraries"></a>Libraries
