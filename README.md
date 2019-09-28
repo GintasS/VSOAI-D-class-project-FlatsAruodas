@@ -9,6 +9,7 @@
   - [Libraries](#libraries)
   - [Column descriptions](#Columndescriptions)
   - [Media](#media)
+  - [ML](#ml)
   
 ## <a name="Intro"></a>Intro
 
@@ -75,6 +76,23 @@ Scrap was conducted on <b>2019-08-24</b>.
   <tr><td>Coordinates</td><td>Flat's latitude and longitude coordinates in this order.</td><td>54.000000 25.000000</td></tr>
  </table>
  
+## <a name="ML"></a>ML
+<p>I added a machine learning model - <a href='https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm' target='_blank'>k-nearest neighbors</a> algorithm to predict <b>Building Type</b> based on these factors(columns):<br>
+  <ul>
+     <li>Rooms</li>
+     <li>Area</li>
+     <li>Floor</li>
+     <li>Total floors</li> 
+     <li>Year</li>
+  </ul>
+Example & tutorial can be found here: <a href='https://stackabuse.com/k-nearest-neighbors-algorithm-in-python-and-scikit-learn/' target='_blank'>URL</a>
+Input dataframe:<br>
+<a target="_blank" href="https://github.com/GintasS/VSOAI-D-class-project-FlatsAruodas/blob/master/tables/ML%20model%20dataframe.JPG">
+  <img src="https://github.com/GintasS/VSOAI-D-class-project-FlatsAruodas/blob/master/tables/ML%20model%20dataframe.JPG" height="300" style="max-width:50%;"></img>
+</a>
+
+</p>
+
 ## <a name="Media"></a>Media
 
 <a target="_blank" href="https://github.com/GintasS/VSOAI-D-class-project-FlatsAruodas/blob/master/charts/flat%20prices%20histogram.JPG">
