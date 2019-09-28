@@ -8,6 +8,7 @@
   - [Features](#features)
   - [Libraries](#libraries)
   - [Media](#media)
+  - [Column descriptions](#column descriptions)
   
 ## <a name="Intro"></a>Intro
 
@@ -36,6 +37,17 @@ Scrap was conducted on <b>2019-08-24</b>.
   <li>folium</li>
   <li>scikit-learn</li>
 </ul>
+
+## <a name="Column descriptions"></a>Column descriptions
+<ul>
+  <li>numpy</li>
+  <li>pandas</li>
+  <li>matplotlib</li>
+  <li>seaborn</li>
+  <li>folium</li>
+  <li>scikit-learn</li>
+</ul>
+
 
 ## <a name="Media"></a>Media
 
