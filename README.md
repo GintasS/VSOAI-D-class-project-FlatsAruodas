@@ -63,10 +63,10 @@ Scrap was conducted on <b>2019-08-24</b>.
   <tr><td>Building type</td><td>Content Cell</td><td>Mūrinis</td></tr>
   <tr><td>Heating</td><td>Content Cell</td><td>Centrinis kolektorinis</td></tr>
   <tr><td>Installation type</td><td>Content Cell</td><td>Dalinė apdaila</td></tr>
-  <tr><td>Specials</td><td>Content Cell</td><td>Nauja kanalizacija Nauja elektros instaliacija Uždaras kiemas Internetas Kabelinė televizija</td></tr>  
+  <tr><td>Specials</td><td>Content Cell</td><td>Nauja kanalizacija<br> Nauja elektros instaliacija<br> Uždaras kiemas<br> Internetas<br> Kabelinė televizija</td></tr>  
   <tr><td>Extra quarters</td><td>Content Cell</td><td>Balkonas</td></tr>
   <tr><td>Extra equipment</td><td>Content Cell</td><td>Plastikiniai vamzdžiai</td></tr>  
-  <tr><td>Security</td><td>Content Cell</td><td>Šarvuotos durys Kodinė laiptinės spyna Videokameros</td></tr>
+  <tr><td>Security</td><td>Content Cell</td><td>Šarvuotos durys<br> Kodinė laiptinės spyna<br> Videokameros</td></tr>
   <tr><td>Upload date</td><td>Content Cell</td><td>8/21/2019</td></tr>  
   <tr><td>Modify date</td><td>Content Cell</td><td>8/21/2019</td></tr>
   <tr><td>Memorized count</td><td>Content Cell</td><td>1</td></tr>   
