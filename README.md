@@ -46,7 +46,7 @@
     <th>Example data</th>
   </tr>
   <tr><td>City</td><td>Flat's city/district/region</td><td>Vilnius</td></tr>
-  <tr><td>County</td><td>Flat's district (smaller location unit)</td><td>Žirmūnai</td></tr>
+  <tr><td>County</td><td>Flat's district</td><td>Žirmūnai</td></tr>
   <tr><td>Street</td><td>Street name</td><td>Antakalnio g.</td></tr>
   <tr><td>HouseCount</td><td>Content Cell</td><td>1</td></tr>
   <tr><td>Link</td><td>Content Cell</td><td>https://www.aruodas.lt/</td></tr>
@@ -54,10 +54,10 @@
   <tr><td>Price per m2</td><td>Flat's price per square metre(m2)</td><td>5000</td></tr>
   <tr><td>Rooms</td><td>Flat's total room count</td><td>3</td></tr>  
   <tr><td>Area m2</td><td>Flat's area in square metres(m2)</td><td>45.10</td></tr>
-  <tr><td>Floor</td><td>Flat's floor number in a building</td><td>3</td></tr>  
-  <tr><td>Total floors</td><td>Total floors in a flat's building</td><td>5</td></tr>
+  <tr><td>Floor</td><td>Flat's floor number in the building</td><td>3</td></tr>  
+  <tr><td>Total floors</td><td>Total floors in the flat's building</td><td>5</td></tr>
   <tr><td>Flat number</td><td>(Removed in notebook) Flat's house number</td><td>5</td></tr>  
-  <tr><td>House number</td><td>(Removed in notebook) Flat's number in a building.</td><td>5A</td></tr>
+  <tr><td>House number</td><td>(Removed in notebook) Flat's number in the building.</td><td>5A</td></tr>
   <tr><td>Year</td><td>Flat's building construction date, format: YYYY</td><td>1988</td></tr>
   <tr><td>Building type</td><td>Building type</td><td>Mūrinis</td></tr>
   <tr><td>Heating</td><td>Heating type</td><td>Centrinis kolektorinis</td></tr>
