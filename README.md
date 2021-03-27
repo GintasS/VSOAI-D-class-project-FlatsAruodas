@@ -9,24 +9,22 @@
   - [Libraries](#libraries)
   - [Column descriptions](#Columndescriptions)
   - [Media](#media)
-  - [ML](#ml)
+  - [Machine Learning](#ml)
   
 ## <a name="Intro"></a>Intro
 
-<p>This is a final project for VSOAI D class graduation, where I scraped <a href='https://www.aruodas.lt/' target='_blank'>aruodas.lt</a>, a lithuanian real estate website, for all available flat listings(ads).<br>Url for all flats: <a href='https://www.aruodas.lt/butai/' target='_blank'>https://www.aruodas.lt/butai/</a>.<br><br>
-Scrap was conducted on <b>2019-08-24</b>.
-</p>
+<p>This is a final project for VSOAI D class graduation, where I web-scraped <a href='https://www.aruodas.lt/' target='_blank'>aruodas.lt</a>, a Lithuanian real-estate website, for all available flat listings(ads).</p>
+<p>Url for all flats: <a href='https://www.aruodas.lt/butai/' target='_blank'>link</a>.</p>
+<p>Scrap was conducted on <b>2019-08-24</b>.</p>
 
 ## <a name="Features"></a>Features
 
 <ul>
-  <li>9687 rows</li>
-  <li>27 columns(22 after cleaning)</li>
-  <li>Data cleaning</li>
-  <li>Charts</li>
-  <li>Machine learning model:<br>
-  <a href='https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm' target='_blank'>k-nearest neighbors</a> algorithm to predict       <b>Building Type</b>
-  </li>
+  <li>9687 rows.</li>
+  <li>27 columns(22 after cleaning).</li>
+  <li>Data cleaning.</li>
+  <li>Charts.</li>
+  <li>Machine learning model: <a href='https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm' target='_blank'>K-nearest neighbors</a> algorithm to predict <b>Building Type</b>.</li>
 </ul>
 
 ## <a name="Libraries"></a>Libraries
@@ -76,7 +74,7 @@ Scrap was conducted on <b>2019-08-24</b>.
   <tr><td>Coordinates</td><td>Flat's latitude and longitude coordinates in this order.</td><td>54.000000 25.000000</td></tr>
  </table>
  
-## <a name="ML"></a>ML
+## <a name="ML"></a>Machine Learning
 <p>I added a machine learning model - <a href='https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm' target='_blank'>k-nearest neighbors</a> algorithm to predict <b>Building Type</b> based on these factors(columns):<br>
   <ul>
      <li>Rooms</li>
