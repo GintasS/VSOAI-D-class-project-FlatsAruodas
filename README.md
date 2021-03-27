@@ -24,7 +24,8 @@
   <li>27 columns(22 after cleaning).</li>
   <li>Data cleaning.</li>
   <li>Charts.</li>
-  <li>Machine learning model: <a href='https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm' target='_blank'>K-nearest neighbors</a> algorithm to predict <b>Building Type</b>.</li>
+  <li>Machine learning model: <br>
+      <a href='https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm' target='_blank'>K-nearest neighbors</a> algorithm to predict <b>Building Type</b>.</li>
 </ul>
 
 ## <a name="Libraries"></a>Libraries
@@ -96,8 +97,6 @@ Example & tutorial can be found here: <a href='https://stackabuse.com/k-nearest-
 <a target="_blank" href="https://github.com/GintasS/VSOAI-D-class-project-FlatsAruodas/blob/master/charts/error%20rate%20k-value.JPG">
   <img src="https://github.com/GintasS/VSOAI-D-class-project-FlatsAruodas/blob/master/charts/error%20rate%20k-value.JPG" height="300" style="max-width:50%;"></img>
 </a>
-
-
 </p>
 
 ## <a name="Media"></a>Media
@@ -146,5 +145,3 @@ Example & tutorial can be found here: <a href='https://stackabuse.com/k-nearest-
   <img src="https://github.com/GintasS/VSOAI-D-class-project-FlatsAruodas/blob/master/maps/ww2%20map.gif" height="400" style="max-width:50%;"></img>
 </a>
 <blockquote>Interactive flat map of flats built in WW2(1939-1945).</blockquote>
-
-
