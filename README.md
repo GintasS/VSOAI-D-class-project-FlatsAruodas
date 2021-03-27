@@ -9,7 +9,7 @@
   - [Libraries](#libraries)
   - [Column descriptions](#Columndescriptions)
   - [Media](#media)
-  - [Machine Learning](#ml)
+  - [Machine Learning](#MachineLearning)
   
 ## <a name="Intro"></a>Intro
 
@@ -75,8 +75,8 @@
   <tr><td>Coordinates</td><td>Flat's latitude and longitude coordinates in this order</td><td>54.000000 25.000000</td></tr>
  </table>
  
-## <a name="ML"></a>Machine Learning
-<p>I added a machine learning model - <a href='https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm' target='_blank'>k-nearest neighbors</a> algorithm to predict <b>Building Type</b> based on these factors(columns):<br>
+## <a name="MachineLearning"></a>Machine Learning
+<p>I added a machine learning model - <a href='https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm' target='_blank'>K-nearest neighbors</a> algorithm to predict <b>Building Type</b> based on these factors(columns):<br>
   <ul>
      <li>Rooms</li>
      <li>Area</li>
@@ -104,17 +104,17 @@ Example & tutorial can be found here: <a href='https://stackabuse.com/k-nearest-
 <a target="_blank" href="https://github.com/GintasS/VSOAI-D-class-project-FlatsAruodas/blob/master/charts/flat%20prices%20histogram.JPG">
   <img src="https://github.com/GintasS/VSOAI-D-class-project-FlatsAruodas/blob/master/charts/flat%20prices%20histogram.JPG" height="300" style="max-width:50%;"></img>
 </a>
-<blockquote>Flat price histograms.</blockquote>
+<blockquote>Flat price histogram.</blockquote>
 <br>
 <a target="_blank" href="https://github.com/GintasS/VSOAI-D-class-project-FlatsAruodas/blob/master/charts/flat%20uploads%20by%20date%20of%20week.JPG">
   <img src="https://github.com/GintasS/VSOAI-D-class-project-FlatsAruodas/blob/master/charts/flat%20uploads%20by%20date%20of%20week.JPG" height="300" style="max-width:50%;"></img>
 </a>
-<blockquote>Flats by day of week.</blockquote>
+<blockquote>Flats by the day of week.</blockquote>
 <br>
 <a target="_blank" href="https://github.com/GintasS/VSOAI-D-class-project-FlatsAruodas/blob/master/charts/error%20rate%20k-value.JPG">
   <img src="https://github.com/GintasS/VSOAI-D-class-project-FlatsAruodas/blob/master/charts/error%20rate%20k-value.JPG" height="300" style="max-width:50%;"></img>
 </a>
-<blockquote>Error rate k value(for ML model).</blockquote>
+<blockquote>Error rate k value(for Machine Learning model).</blockquote>
 <br>
 <a target="_blank" href="https://github.com/GintasS/VSOAI-D-class-project-FlatsAruodas/blob/master/charts/flats%20by%20building%20type.JPG">
   <img src="https://github.com/GintasS/VSOAI-D-class-project-FlatsAruodas/blob/master/charts/flats%20by%20building%20type.JPG" height="300" style="max-width:50%;"></img>
@@ -124,12 +124,12 @@ Example & tutorial can be found here: <a href='https://stackabuse.com/k-nearest-
 <a target="_blank" href="https://github.com/GintasS/VSOAI-D-class-project-FlatsAruodas/blob/master/charts/old%20town%20districts%20in%20top-3%20biggest%20cities%20and%20their%20average%20flat%20prices.JPG">
   <img src="https://github.com/GintasS/VSOAI-D-class-project-FlatsAruodas/blob/master/charts/old%20town%20districts%20in%20top-3%20biggest%20cities%20and%20their%20average%20flat%20prices.JPG" height="300" style="max-width:50%;"></img>
 </a>
-<blockquote>Old town average flat prices in top-3 biggest cities/districts.</blockquote>
+<blockquote>Old town county average flat prices in the top-3 biggest cities/districts.</blockquote>
 <br>
 <a target="_blank" href="https://github.com/GintasS/VSOAI-D-class-project-FlatsAruodas/blob/master/charts/top-10%20cities%20and%20districts%20by%20flats.JPG">
   <img src="https://github.com/GintasS/VSOAI-D-class-project-FlatsAruodas/blob/master/charts/top-10%20cities%20and%20districts%20by%20flats.JPG" height="300" style="max-width:50%;"></img>
 </a>
-<blockquote>Top-10 cities and districts by flats.</blockquote>
+<blockquote>Top-10 cities and districts by flat count.</blockquote>
 <br>
 <a target="_blank" href="https://github.com/GintasS/VSOAI-D-class-project-FlatsAruodas/blob/master/maps/flats%20map.gif">
   <img src="https://github.com/GintasS/VSOAI-D-class-project-FlatsAruodas/blob/master/maps/flats%20map.gif" height="400" style="max-width:50%;"></img>
@@ -139,7 +139,7 @@ Example & tutorial can be found here: <a href='https://stackabuse.com/k-nearest-
 <a target="_blank" href="https://github.com/GintasS/VSOAI-D-class-project-FlatsAruodas/blob/master/maps/live%20map%20of%20flats%20listings%202019-08-18%20--%202019-08-24.gif">
   <img src="https://github.com/GintasS/VSOAI-D-class-project-FlatsAruodas/blob/master/maps/live%20map%20of%20flats%20listings%202019-08-18%20--%202019-08-24.gif" height="400" style="max-width:50%;"></img>
 </a>
-<blockquote>Interactive live flat map of flat listings in 2019-08-18 -- 2019-08-24.</blockquote>
+<blockquote>Interactive live flat map of flat listings in 2019-08-18 -- 2019-08-24 period.</blockquote>
 <br>
 <a target="_blank" href="https://github.com/GintasS/VSOAI-D-class-project-FlatsAruodas/blob/master/maps/ww2%20map.gif">
   <img src="https://github.com/GintasS/VSOAI-D-class-project-FlatsAruodas/blob/master/maps/ww2%20map.gif" height="400" style="max-width:50%;"></img>
