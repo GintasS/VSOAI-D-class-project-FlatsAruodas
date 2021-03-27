@@ -51,7 +51,7 @@
   <tr><td>County</td><td>Flat's district</td><td>Žirmūnai</td></tr>
   <tr><td>Street</td><td>Street name</td><td>Antakalnio g.</td></tr>
   <tr><td>HouseCount</td><td>A paid service, where you can move up your real-estate listing via buying special "houses" on the ad. 
-    This number indiciates how many of those houses were bought.</td><td>1</td></tr>
+    This number indicates how many of those houses were bought.</td><td>1</td></tr>
   <tr><td>Link</td><td>Flat's unique link for the actual listing.</td><td>https://www.aruodas.lt/</td></tr>
   <tr><td>Price EUR</td><td>Flat's price in EUR</td><td>50000</td></tr>  
   <tr><td>Price per m2</td><td>Flat's price per square metre(m2)</td><td>5000</td></tr>
@@ -65,15 +65,15 @@
   <tr><td>Building type</td><td>Building type</td><td>Mūrinis</td></tr>
   <tr><td>Heating</td><td>Heating type</td><td>Centrinis kolektorinis</td></tr>
   <tr><td>Installation type</td><td>Finishing type</td><td>Dalinė apdaila</td></tr>
-  <tr><td>Specials</td><td>Special items that describe a flat, e.g: flat can have new plumbing installed</td><td>Nauja kanalizacija</td></tr>  
-  <tr><td>Extra quarters</td><td>Special rooms that a flat has, e.g: a balcony</td><td>Balkonas</td></tr>
-  <tr><td>Extra equipment</td><td>Extra equipment that comes with a flat, e.g: dishwasher</td><td>Plastikiniai vamzdžiai</td></tr>  
-  <tr><td>Security</td><td>Describes the security measures that a particular flat employs, e.g: alarm</td><td>Šarvuotos durys</td></tr>
+  <tr><td>Specials</td><td>Special items that describe a flat, e.g. flat can have new plumbing installed</td><td>Nauja kanalizacija</td></tr>  
+  <tr><td>Extra quarters</td><td>Special rooms that a flat has, e.g. a balcony</td><td>Balkonas</td></tr>
+  <tr><td>Extra equipment</td><td>Extra equipment that comes with a flat, e.g. dishwasher</td><td>Plastikiniai vamzdžiai</td></tr>  
+  <tr><td>Security</td><td>Describes the security measures that a particular flat employs, e.g. alarm</td><td>Šarvuotos durys</td></tr>
   <tr><td>Upload date</td><td>Ad upload date. Date format: YYYY-MM-DD</td><td>2019-08-21</td></tr>  
   <tr><td>Modify date</td><td>Ad modification date. Date format: YYYY-MM-DD</td><td>2019-08-21</td></tr>
   <tr><td>Memorized count</td><td>How many people saved(bookmarked) the ad</td><td>1</td></tr>   
   <tr><td>Views</td><td>Ad view count</td><td>345</td></tr>
-  <tr><td>Telephone</td><td>Flats owner's/realtor's phone number</td><td>37000000000</td></tr>
+  <tr><td>Telephone</td><td>Flat owner's/realtor's phone number</td><td>37000000000</td></tr>
   <tr><td>Coordinates</td><td>Flat's latitude and longitude coordinates in this order</td><td>54.000000 25.000000</td></tr>
  </table>
  
