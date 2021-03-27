@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Vilnius School of AI - D class final project - Aruodas.lt flats listings</h2>
+  <h2>Vilnius School of AI - D class final project - Aruodas.lt flat listings</h2>
 </div>
 
 ## Jump to...
