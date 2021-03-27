@@ -10,6 +10,7 @@
   - [Column descriptions](#Columndescriptions)
   - [Media](#media)
   - [Machine Learning](#MachineLearning)
+  - [Changelog](#Changelog)
   
 ## <a name="Intro"></a>Intro
 
@@ -145,3 +146,10 @@ Example & tutorial can be found here: <a href='https://stackabuse.com/k-nearest-
   <img src="https://github.com/GintasS/VSOAI-D-class-project-FlatsAruodas/blob/master/maps/ww2%20map.gif" height="400" style="max-width:50%;"></img>
 </a>
 <blockquote>Interactive map of flats built in WW2(1939-1945).</blockquote>
+
+## <a name="Changelog"></a>Changelog
+
+<h3>CHANGELOG 27/03/2021</h3>
+<ul>
+  <li>Fixed grammar mistakes.</li>
+</ul>
