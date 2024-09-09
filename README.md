@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Vilnius School of AI - D class final project - Aruodas.lt flat listings</h2>
+  <h2>Lithuanian real estate analysis - Aruodas.lt Flat Listings</h2>
 </div>
 
 ## Jump to...
@@ -14,9 +14,11 @@
   
 ## <a name="Intro"></a>Intro
 
-<p>This is a final project for VSOAI D class graduation, where I web-scraped <a href='https://www.aruodas.lt/' target='_blank'>aruodas.lt</a>, a Lithuanian real-estate website, for all available flat listings(ads).</p>
-<p>Url for all flats: <a href='https://www.aruodas.lt/butai/' target='_blank'>link</a>.</p>
-<p>Scrap was conducted on <b>2019-08-24</b>.</p>
+<p>This is a final project for VSOAI D class graduation, where I web-scraped <a href='https://www.aruodas.lt/' target='_blank'>aruodas.lt</a>, a Lithuanian real-estate website, for all available flat listings.</p>
+
+<p>The goal of this project is to provide a comprehensive analysis of the real estate market in Lithuania, specifically focusing on flat listings available on aruodas.lt. By web scraping the data, we have compiled a dataset that includes various attributes of the flats such as location, price, area, and more. This dataset is then cleaned and analyzed to extract meaningful insights.</p>
+
+<p>One of the key features of this project is the application of machine learning techniques to predict the building type of a flat based on its attributes. We have employed the K-nearest neighbors algorithm for this purpose. Additionally, various charts and visualizations are created to help users better understand the trends and patterns in the real estate market.</p>
 
 ## <a name="Features"></a>Features
 
